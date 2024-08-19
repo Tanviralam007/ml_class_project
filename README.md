@@ -10,7 +10,7 @@
 5. [Evaluation](#evaluation)
 6. [Conclusion](#conclusion)
 
-here is the Data Dictionary:
+Here is the Data Dictionary:
 - [Data Dictionary](./data_dict.md)
 
 ### **Objective**
