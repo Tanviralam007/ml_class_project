@@ -10,6 +10,9 @@
 5. [Evaluation](#evaluation)
 6. [Conclusion](#conclusion)
 
+here is the Data Dictionary:
+- [Data Dictionary](./data_dict.md)
+
 ### **Objective**
 The notebook aims to predict heart disease using machine learning models, employing various data analysis techniques and classifiers on a heart disease dataset.
 
