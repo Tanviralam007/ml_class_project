@@ -1,5 +1,15 @@
 # ML Class Project
 
+1. [Objective](#objective)
+2. [Data](#data)
+3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+    - [Data Visualization](#data-visualization)
+    - [Class Distribution](#class-distribution)
+    - [Descriptive Statistics](#descriptive-statistics)
+4. [Modeling](#modeling)
+5. [Evaluation](#evaluation)
+6. [Conclusion](#conclusion)
+
 ### **Objective**
 The notebook aims to predict heart disease using machine learning models, employing various data analysis techniques and classifiers on a heart disease dataset.
 
